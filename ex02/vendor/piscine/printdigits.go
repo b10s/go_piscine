@@ -1,4 +1,4 @@
-package printdigits
+package piscine
 
 import "ft"
 

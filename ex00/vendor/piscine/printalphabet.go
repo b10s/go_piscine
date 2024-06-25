@@ -1,4 +1,4 @@
-package printalphabet
+package piscine
 
 import "ft"
 

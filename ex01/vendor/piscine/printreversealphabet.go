@@ -1,4 +1,4 @@
-package printreversealphabet
+package piscine
 
 import "ft"
 
